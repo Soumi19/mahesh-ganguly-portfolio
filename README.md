@@ -1,4 +1,4 @@
-# Dr. Mahesh Prasad Ganguly — Portfolio
+# Dr. Mahesh Ganguly — Portfolio
 
 Antigravity-ready static website project.
 
